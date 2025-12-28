@@ -591,7 +591,11 @@ section.active{
 .portfolio-box .live-github a:first-child{
     margin-right: 1.5rem;
 }
-.portfolio-box .live-github a:first-child i{
+/*.portfolio-box .live-github a:first-child i{
+    transform: rotate(135deg);
+}*/
+
+.portfolio-box .live-github i.bx-arrow-back{
     transform: rotate(135deg);
 }
 
